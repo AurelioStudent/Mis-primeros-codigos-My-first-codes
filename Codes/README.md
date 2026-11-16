@@ -21,4 +21,4 @@ Organized record of my daily practices and previous codes.
 
 | File | Theme | Notes |
 | :--- | :--- | :--- |
-| [`first-code.py`](./previous-codes/first-code.py) | basic logic | My first program that I did, is so basic, however I love it |
+| [`first-code.py`](./previous-codes/first-code.py) | basic logic about random | My first program that I did, is so basic, however I love it |
