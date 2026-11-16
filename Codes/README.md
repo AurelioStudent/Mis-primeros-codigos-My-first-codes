@@ -22,4 +22,4 @@ Organized record of my daily practices and previous codes.
 | File | Theme | Notes |
 | :--- | :--- | :--- |
 | [`first-code.py`](./previous-codes/first-code.py) | basic logic about if,elif,else., import random and lists | My first program that I did, is so basic, however I love it |
-| [`forRangeTasks()-code.py´](./previous-codes/forRangeTasks()-code.py) | basic logic about for i in range() combined with tasks | Good tool for any basic program |
+| [`forRange()-code.py´](./previous-codes/forRange()-code.py) | basic logic about for i in range() combined with tasks | Good tool for any basic program |
