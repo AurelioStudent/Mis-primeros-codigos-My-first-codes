@@ -12,7 +12,7 @@ Organized record of my daily practices and previous codes.
 ## Current Codes (daily progress)
 
 | Month |  date | File | Theme | grow notes | improvement notes |
-| :--- | :--- | :--- |
+| :--- | :--- | :--- | :--- | :--- | :--- |
 | November | 16/11/2026 | [`dia-01-inicio.py`](./current-codes/dia-01-inicio.py) | Estructura base | Primer código del reto |
 
 ---
