@@ -12,6 +12,6 @@ Who i am: I am sixteen, i am from spain, i love tech world and i will be an expe
 -  Document my codes and challenges.
 -  Learn a new thing every day.
 
-## START (Mis-primeros-codigos-My-first-codes/Codes)
+## START (./Codes)
 ---
 *Documentation constantly updated. Building the future day by day*
