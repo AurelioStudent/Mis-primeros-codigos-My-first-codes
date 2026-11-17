@@ -23,3 +23,4 @@ Organized record of my daily practices and previous codes.
 | :--- | :--- | :--- |
 | [`first-code.py`](./previous-codes/first-code.py) | basic logic about if,elif,else., import random and lists | My first program that I did, is so basic, however I love it |
 | [`forRange()-code.py`](./previous-codes/forRange()-code.py) | basic logic about for i in range() combined with tasks | Good tool for any basic program |
+| [`interestCalculator-2models.py`](./previous-codes/interestCalculator-2models.py) | my first calculators | easy to make with the knowledge about basic tools |
