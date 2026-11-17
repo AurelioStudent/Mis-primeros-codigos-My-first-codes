@@ -1,4 +1,4 @@
-## Original code
+# Original code
 import random
 print("HOLA COMPAÑERO, QUIERES JUGAR AL PIEDRA PAPEL O TIJERAS?")
 print("." * 25)
@@ -14,7 +14,9 @@ while True:
   else:
     print("Has perdido, escribe salir y vete a llorar")
 print("." * 25)
-## English version
+
+
+# English version
 import random
 print("HELLO FRIEND, DO YOU WANT TO PLAY ROCK, PAPER OR SCISSORS?")
 print("." * 25)
