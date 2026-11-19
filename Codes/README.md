@@ -25,3 +25,4 @@ Organized record of my daily practices and previous codes.
 | [`forRange()-code.py`](./previous-codes/forRange()-code.py) | basic logic about for i in range() combined with tasks | Good tool for any basic program |
 | [`interestCalculator-2models.py`](./previous-codes/interestCalculator-2models.py) | my first calculators | easy to make with the knowledge about basic tools |
 | [`CombinedCalculator-2models.py`](./previous-codes/CombinedCalculator-2models.py) | A calculator which combined linear and compound interests | it was difficult to integrate it at first, but it remains easy. |
+| [`probabilityHeadsOrTails.py`](./previous-codes/probabilityHeadsOrTails.py) | A calculator which calculate the probability betwen 2 variables | so interesting to know the diference about the probability between 2 variables which each one has supposedly 50% |
