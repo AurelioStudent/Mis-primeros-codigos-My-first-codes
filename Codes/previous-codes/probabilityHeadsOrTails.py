@@ -14,4 +14,4 @@ for i in range(1, Total):
     CCr += 1
 Pa = (CCa / Total) * 100
 Pr = (CCr / Total) * 100
-print(f"El lado cara ha salido {CCa} veces que seria un {Pa: .2f}% de las veces y el lado cruz ha salido {CCr} veces que seria un {Pr: .2f}% de veces que se ha tirado la moneda.")
+print(f"Heads has come up {CCa}, which would be {Pa: .2f}% and tails has come up {CCr}, which would be {Pr: .2f}%.")
